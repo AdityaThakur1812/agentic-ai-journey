@@ -1,4 +1,4 @@
-tup = ("aditya", "thakur", "priya" , "riya") # once it is defined we cn not add or remove values from it
+tup = ("aditya", "thakur", "priya" , "riya") # once it is defined we can not add or remove values from it
 (str1,str2,str3,st4) = tup #variable for each element in the tuple remember the size should be equal
 
 print(f"{str1}")
